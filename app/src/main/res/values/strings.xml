@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="weight">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Microgram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Quintal</item>
+        <item>Carat</item>
+        <item>Dalton</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+        <item>Century</item>
+        <item>Millennium</item>
+
+    </string-array>
+
+    <string-array name="area">
+        <item>SquareMeter</item>
+        <item>SquareKilometer</item>
+        <item>Hectare</item>
+        <item>Are</item>
+        <item>Barn</item>
+        <item>SquareMile</item>
+        <item>SquareYard</item>
+        <item>SquareFeet</item>
+        <item>SquareInch</item>
+        <item>Acre</item>
+        <item>Section</item>
+    </string-array>
+
+    <string-array name="lenght">
+        <item>Inch</item>
+        <item>Centimeter</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Meter</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="speed">
+        <item>MeterSecond</item>
+        <item>MeterHour</item>
+        <item>KilometerSecond</item>
+        <item>KilometerHour</item>
+        <item>MileSecond</item>
+        <item>MileHour</item>
+        <item>LightVelocity</item>4
+        <item>Mach</item>
+
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Reaumur</item>
+        <item>Celvin</item>
+        <item>Rankine</item>
+
+    </string-array>
+
+</resources>
+
